@@ -1,0 +1,44 @@
+[
+    {
+    "id": 1,
+    "name": "Anturrium",
+    "description": "Planta tropical ideal para interiores",
+    "price": 19000,
+    "image": "/img/anturrium.webp"
+    },
+    {
+    "id": 2,
+    "name": "Helecho serrucho",
+    "description": "Helecho tropical ideal para interiores luminosos",
+    "price": 6000,
+    "image": "/img/helecho.webp"
+    },
+    {
+    "id": 3,
+    "name": "Monstera",
+    "description": "Planta tropical grande, para interiores con mucha iluminacion pero no sol directo",
+    "price": 40000,
+    "image": "/img/monstera.webp"
+    },
+    {
+    "id": 4,
+    "name": "Peperomia",
+    "description": "Planta tropical pequeña, hojas bicolor",
+    "price": 9000,
+    "image": "/img/peperomia.webp"
+    },
+    {
+    "id": 5,
+    "name": "Potus limon",
+    "description": "Ideal para interiores con buena iluminacion",
+    "price": 20000,
+    "image": "/img/potus.jpg"
+    },
+    {
+    "id": 6,
+    "name": "Syngonium",
+    "description": "Ideal para interiores con buena iluminacion o exteriores protegidos",
+    "price": 25000,
+    "image": "/img/syngonium.webp"
+    }
+]
